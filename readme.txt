@@ -1,4 +1,2 @@
-# alexiswolft.github.io
-+ proyecto colaborativo- desafios Latam- nombre Alexis Restrepo
-+ colaboracion con fork y commit en github de compañeros:
-levi alvarado y hector gonzales
+# CharlieObject.github.io
++ proyecto colaborativo- desafios Latam- nombre: Levi Alvarado (Github: Levi-Alvarado) & Sebastian Garcia Guerrero  (Github: SebastianGarciaGuerrero).
